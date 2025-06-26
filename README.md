@@ -20,8 +20,8 @@ Este repositório contém uma coleção de exercícios básicos de programação
 - [x] Criar uma matriz 3x3 com valores que variam de 0 a 9.
 
 ### 🔍 Mínimo e Máximo
-- [x] a) Encontrar valor mínimo.
-- [x] b) Encontrar valor máximo.
+- [x] Encontrar valor mínimo.
+- [x] Encontrar valor máximo.
 
 ### 🧷 Matriz identidade
 - [x] Criar uma matriz identidade 3x3.
